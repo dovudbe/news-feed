@@ -1,0 +1,73 @@
+i{
+    font-size: 25px;
+    color: rgb(85, 85, 82);
+}
+#bulim{
+    cursor: pointer;
+}
+#card{
+    cursor: pointer;
+}
+#tepadagi:hover{
+    width: 132px;
+    height: 35px;
+    /* border: 2px solid black; */
+    background-color: rgb(205, 209, 209);
+    border-radius: 8px;
+    cursor: pointer;
+}
+#tepa:hover{
+    width: 160px;
+    height: 35px;
+    /* border: 2px solid black; */
+    background-color: rgb(205, 209, 209);
+    border-radius: 8px;
+    cursor: pointer;
+}
+#tepada:hover{
+    width: 115px;
+    height: 35px;
+    /* border: 2px solid black; */
+    background-color: rgb(205, 209, 209);
+    border-radius: 8px;
+    cursor: pointer;
+}
+.orqa_fon1{
+    width: 100%;
+    height: 750px;
+    justify-content: center;
+    display: flex;
+}
+.orqa_fon{
+    width: 70%;
+    height: 580px;
+    border-radius: 30px;
+    justify-content: center;
+    text-align: center;
+}
+.xira{
+    width: 100%;
+    height: 580px;
+    border-radius: 30px;
+    background: rgba(80, 131, 241, 0.4);
+}
+.orqa_fon img{
+    width: 35%;
+    height: 50px;
+}
+.rasm_ichida{
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+}
+.rasm_ichida1{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+.tugadi1{
+    width: 30%;
+    height: 30px;
+    text-align: center;
+    color: rgb(156, 154, 152);
+}
